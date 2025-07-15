@@ -1,6 +1,6 @@
 # 🛡️ Simple Anonymization Recipe with Ollama & Python Jupyter Notebooks
 
-Worried about sharing sensitive data with Cloud LLMs? Skip the hassle of manual text parsing and resource-heavy solutions. With this quick recipe, you can **anonymize your data locally** using an LLM model on your machine—powered by Ollama and Python Jupyter Notebooks. Clean up your text *before* using ChatGPT or any Cloud LLM, all while keeping your data private!
+You don't have to paste senstitive data into Cloud LLMs & you don't have to manually parse your text which is resource intensive. Instead, with this little recipe you can use a local LLM model with Ollama, and Python Jupyter Notebook to clean that data before using it with ChatGPT or your preferred Cloud LLM.
 
 ---
 
